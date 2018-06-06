@@ -10,4 +10,4 @@ character_names.each do |name|
  friends_characters [name] = characteristics[index]
  index += 1
  end 
- friends_characters 
+ puts friends_characters 
