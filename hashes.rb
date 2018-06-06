@@ -23,5 +23,5 @@ puts class_celeb_crushes.values
 puts class_celeb_crushes.keys
 
 class_celeb_crushes.each do |names,crushes|
-end 
-
+puts "#{names} crush is #{crushes}"
+end
